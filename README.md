@@ -3,7 +3,7 @@
   <h3>Senior Network / Systems Engineer and AI Infrastructure Specialist</h3>
   
   [![Website](https://img.shields.io/badge/Website-StewAlexander.com-blue?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://stewAlexander.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://wwww.linkedin.com/in/stewalexander)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stewalexander)
   
   ![Profile Views](https://komarev.com/ghpvc/?username=StewAlexander-com&style=flat-square&color=blue)
 </div>
