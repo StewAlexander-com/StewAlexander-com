@@ -36,5 +36,5 @@ $ grep -r “expertise” /home/stew/skills
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StewAlexander-com&show_icons=true&theme=radical)
   
-  <i>Let's connect and build something amazing together!</i>
+  <i>Bulding the automated future, if interested let's connect!</i>
 </div>
