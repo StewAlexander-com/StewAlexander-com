@@ -1,5 +1,5 @@
 <div align="center">
-  [![Business Icon](https://github.com/user-attachments/assets/fd7723d9-e515-42a3-bc8e-0c1451279092)
+  <img src="https://github.com/user-attachments/assets/fd7723d9-e515-42a3-bc8e-0c1451279092" alt="Business Icon" width="20%" height="20%">
   <h1>👨‍💻 Stew Alexander</h1>
   <h3>Senior Network / Systems Engineer and AI Infrastructure Specialist</h3>
   
