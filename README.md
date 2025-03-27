@@ -1,10 +1,40 @@
+<div align="center">
+  <h1>👨‍💻 Stew Alexander</h1>
+  <h3>Senior Network / Systems Engineer and AI Infrastructure Specialist</h3>
+  
+  [![Website](https://img.shields.io/badge/Website-StewAlexander.com-blue?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://stewAlexander.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=StewAlexander-com&style=flat-square&color=blue)
+</div>
 
-# About Me:
-----
+## 💻 Tech Stack
+```bash
+$ grep -r “expertise” /home/stew/skills
+```
 
-### **Senior Linux / UNIX / Network / Systems Engineer**
-- 🔗 [StewAlexander.com](https://www.stewalexander.com)
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/stewalexander)
-- ♥️ Linux, FOSS, AI 
-- 👨‍💼 Work in Networking, Linux & Cybersecurity
-- 🎹 Play piano
+- 🐧 **Linux/UNIX Administration** - System optimization & security hardening
+- 🔐 **Cybersecurity** - Network protection & threat detection
+- 🌐 **Network Engineering** - Infrastructure design & implementation
+- 🤖 **Automation** - Creating efficient workflows & system automation
+
+## 🔍 Current Focus
+
+- 🚀 Exploring advanced AI implementations in security
+- 🌟 Contributing to open-source projects
+- 🔄 Building automation solutions for complex environments
+
+## ❤️ Passions
+
+- 💡 **FOSS Advocate** - Supporting the open-source community
+- 🎹 **Piano Player** - Finding harmony away from the keyboard
+- 🧠 **Continuous Learner** - Always curious, always growing
+
+<br>
+<br>
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StewAlexander-com&show_icons=true&theme=radical)
+  
+  <i>Let's connect and build something amazing together!</i>
+</div>
