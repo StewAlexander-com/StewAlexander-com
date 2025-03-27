@@ -30,8 +30,6 @@ $ grep -r “expertise” /home/stew/skills
 - 💡 **FOSS Advocate** - Supporting the open-source community
 - 🎹 **Piano Player** - Finding harmony away from the keyboard
 - 🧠 **Continuous Learner** - Always curious, always growing
-
-<br>
 <br>
 <div align="center">
   
