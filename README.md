@@ -10,7 +10,7 @@
 </div>
 <br>
 
-___Creator of **[CERBERUS](https://www.stewalexander.com/quantum-shield-initiative/cerberus-ai)** - A Multi-Perspective AI Framework for Quantum-Era Cyber Defense___
+___Creator of **[CERBERUS](https://www.stewalexander.com/quantum-shield-initiative/cerberus-ai)** - A Multi-Perspective AI Framework for Quantum-Era Cyber Defense___</br>
 
 ---
 
