@@ -14,8 +14,6 @@ ___Creator of **[CERBERUS](https://www.stewalexander.com/quantum-shield-initiati
 
 ---
 
-</br>
-
 ### 💻 **Tech Stack**
 
 $ grep -r "expertise" /home/stew/skills
