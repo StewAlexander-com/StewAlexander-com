@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/fd7723d9-e515-42a3-bc8e-0c1451279092" alt="Business Icon" width="25%" height="25%">
   <h1>Stew Alexander</h1>
-  <h3>Cybersecurity Strategist | AI Security Researcher | Network Engineer</h3>
+  <h3>Senior Network Security Engineer | AI Infrastructure Specialist </h3>
   
   [![Website](https://img.shields.io/badge/Website-StewAlexander.com-blue?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://stewAlexander.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stewalexander)
