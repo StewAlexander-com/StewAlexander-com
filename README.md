@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/fd7723d9-e515-42a3-bc8e-0c1451279092" alt="Business Icon" width="25%" height="25%">
+  <img src="https://www.stewalexander.com/uploads/7/7/6/5/77651292/published/bio-headshot.jpg?1762706858" alt="Business Icon">
   <h1>Stew Alexander</h1>
   <h3>Senior Network Security Engineer | AI Infrastructure Specialist </h3>
   
