@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://www.stewalexander.com/uploads/7/7/6/5/77651292/published/bio-headshot.jpg?1762706858" alt="Business Icon">
   <h1>Stew Alexander</h1>
-  <h3>Senior Network Security Engineer | AI Infrastructure Specialist </h3>
+  <h3>Infrastructure Automation & Network Security Engineer for AI Systems </h3>
   
   [![Website](https://img.shields.io/badge/Website-StewAlexander.com-blue?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://stewAlexander.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stewalexander)
