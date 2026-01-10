@@ -48,23 +48,14 @@ Senior infrastructure engineer specializing in AI/ML security architectures. **K
 
 ## 🎯 Services
 
-<details>
-<summary><b>🚀 For Remote Teams & Startups</b></summary>
-
+### 🚀 For Remote Teams & Startups
 Zero Trust architectures, multi-cloud (AWS/GCP), sub-ms latency for AI/robotics workloads.
-</details>
 
-<details>
-<summary><b>🏢 For Local SMBs (Triangle Area)</b></summary>
-
+### 🏢 For Local SMBs (Triangle Area)
 Fixed-fee security assessments, PCI-DSS gap analysis, ransomware-ready hardening.
-</details>
 
-<details>
-<summary><b>🤝 For MSPs & IT Partners</b></summary>
-
+### 🤝 For MSPs & IT Partners
 White-label security architecture and automation expertise.
-</details>
 
 **💼 Available for:**
 - 🏢 On-site consulting (Triangle area)
@@ -119,19 +110,34 @@ White-label security architecture and automation expertise.
 
 Network vendor analysis tool with interactive dashboards & SIEM integration. Supports Cisco, Juniper, HP/Aruba, Extreme, Brocade and more.
 
+**Key Features:**
+- 📊 Interactive vendor dashboards
+- 🔍 Real-time device detection
+- 📤 SIEM event export
+
 ### 🎯 [CERBERUS](https://www.stewalexander.com/quantum-shield-initiative/cerberus-ai)
 ![AI](https://img.shields.io/badge/AI-Framework-brightgreen?style=flat-square)
 ![Quantum](https://img.shields.io/badge/Quantum-Ready-blueviolet?style=flat-square)
 
 Multi-agent AI framework for quantum-era cyber defense.
 
+**Key Features:**
+- 🛡️ Multi-agent architecture
+- 🔐 Quantum-resistant security
+- 🤖 Zero-trust AI workloads
+
 ### 💡 [Awesome-Mnemonics](https://github.com/StewAlexander-com/Awesome-Mnemonics)
 ![Stars](https://img.shields.io/github/stars/StewAlexander-com/Awesome-Mnemonics?style=flat-square)
 
 Developer productivity mnemonics and lifehack acronyms.
 
+**Key Features:**
+- 💡 Memory aid acronyms
+- 📚 Developer productivity tools
+- 🔖 Quick reference resources
+
 <details>
-<summary><b>More Projects</b></summary>
+<summary><b>➕ More Projects (3 additional)</b></summary>
 
 - 🐧 **[Linux-Tools](https://github.com/StewAlexander-com/Linux-Tools)** - Essential automation toolkit with lazy installer
 - 🌦️ **[MebaneWeather.com](https://mebaneweather.com)** - MTTR/MTBF weather monitoring dashboard
@@ -187,8 +193,6 @@ Developer productivity mnemonics and lifehack acronyms.
 Serving **startups, SMBs (RTP/Triangle area), and MSPs** nationwide
 
 ---
-
-### ❤️ Passions
 
 **💡 FOSS Advocate** • **🎹 Piano Jazz** • **🧠 Lifelong Learner**
 
