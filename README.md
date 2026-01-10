@@ -22,21 +22,13 @@ Creator of **[CERBERUS](https://www.stewalexander.com/quantum-shield-initiative/
 
 ## 📑 Table of Contents
 
-- [�️ Stew Alexander](#️-stew-alexander)
-    - [Infrastructure Automation \& Network Security Engineer for AI Systems](#infrastructure-automation--network-security-engineer-for-ai-systems)
-  - [📑 Table of Contents](#-table-of-contents)
-  - [👤 About](#-about)
-  - [🎯 Services](#-services)
-  - [💻 Expertise](#-expertise)
-  - [🚀 Featured Projects](#-featured-projects)
-    - [🔍 ShadowVendor](#-shadowvendor)
-    - [🎯 CERBERUS](#-cerberus)
-    - [💡 Awesome-Mnemonics](#-awesome-mnemonics)
-  - [🏢 Experience](#-experience)
-  - [✍️ Content](#️-content)
-  - [💼 Work With Me](#-work-with-me)
-    - [❤️ Passions](#️-passions)
-    - [📊 GitHub Contribution Activity](#-github-contribution-activity)
+- [👤 About](#-about)
+- [🎯 Services](#-services)
+- [💻 Expertise](#-expertise)
+- [🚀 Featured Projects](#-featured-projects)
+- [🏢 Experience](#-experience)
+- [✍️ Content](#️-content)
+- [💼 Work With Me](#-work-with-me)
 
 ---
 
