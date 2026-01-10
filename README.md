@@ -10,7 +10,7 @@
 
 [![Website](https://img.shields.io/badge/Website-stewalexander.com-0066CC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://stewAlexander.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-stewalexander-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stewalexander)
-![Profile Views](https://komarev.com/ghpvc/?username=StewAlexander-com&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=StewAlexander-com&style=for-the-badge&color=blue)
 
 Creator of **[CERBERUS](https://www.stewalexander.com/quantum-shield-initiative/cerberus-ai)** - A Multi-Perspective AI Framework for Quantum-Era Cyber Defense
 
