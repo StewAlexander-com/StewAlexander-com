@@ -65,7 +65,7 @@ Click **Follow** to get updates on new projects, articles, and open-source tools
 ## 🚧 Current Focus
 
 - 🔬 **Researching**: Post-quantum cryptography implementations in Python
-- 🛠️ **Building**: ShadowVendor enhancements with Zeek integration
+- 🛠️ **Building**: ShadowVendor enhancements and network security tools
 - 📖 **Learning**: Rust for high-performance network tools
 - 🤝 **Open to**: Collaborators on CERBERUS multi-agent framework
 
@@ -142,7 +142,7 @@ Network vendor analysis tool with interactive dashboards & SIEM integration. Sup
 - 🔍 Real-time device detection
 - 📤 SIEM event export
 
-**💬 PRs welcome!** Looking for contributors on Zeek integration and dashboard enhancements.
+**💬 PRs welcome!** Looking for contributors on dashboard enhancements and new features.
 
 ### 🎯 [CERBERUS](https://www.stewalexander.com/quantum-shield-initiative/cerberus-ai)
 ![AI](https://img.shields.io/badge/AI-Framework-brightgreen?style=flat-square)
@@ -200,15 +200,11 @@ Developer productivity mnemonics and lifehack acronyms.
 
 ### 📝 [Medium](https://medium.com/@stewalexander) (40,000+ total reads)
 
-- **"20 Awesome Command Line Tools for the Mac"** (40,000+ reads)
-- **"Zero Trust Architecture for AI Workloads"** - Multi-cloud security patterns
-- **"Building Quantum-Resistant Networks"** - ML-KEM implementation guide
+Technical articles on command-line tools, infrastructure automation, and quantum security. Featured article: **"20 Awesome Command Line Tools for the Mac"** (40,000+ reads).
 
 ### 🎙️ [Cerberus-AI YouTube](https://www.youtube.com/@cerberus-ai)
 
-- **CERBERUS Framework Demo** (Episode 1) - Multi-agent architecture overview
-- **Post-Quantum Crypto Explained** (3-part series) - ML-KEM & ML-DSA deep dive
-- **Network Security Analysis** - ShadowVendor tool walkthrough
+Quantum cybersecurity education, CERBERUS framework demonstrations, and post-quantum cryptography explanations.
 
 ### 📝 [Quantum Shield Initiative Blog](https://www.stewalexander.com/quantum-shield-initiative)
 
