@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://www.stewalexander.com/uploads/7/7/6/5/77651292/published/bio-headshot.jpg?1762706858" alt="Stew Alexander" width="200" style="border-radius: 50%;">
+<img src="https://www.stewalexander.com/uploads/7/7/6/5/77651292/published/bio-headshot.jpg?1762706858" width="150" alt="Stew Alexander" />
 
 # 🛡️ Stew Alexander
 
@@ -8,53 +8,57 @@
 
 **Building the automated future**
 
-[![Website](https://img.shields.io/badge/Website-stewalexander.com-blue?style=flat-square&logo=google-chrome)](https://stewAlexander.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-stewalexander-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/stewalexander)
+[![Website](https://img.shields.io/badge/Website-stewalexander.com-0066CC?style=flat-square&logo=google-chrome&logoColor=white)](https://stewAlexander.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-stewalexander-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stewalexander)
 ![Profile Views](https://komarev.com/ghpvc/?username=StewAlexander-com&style=flat-square&color=blue)
 
-_Creator of **[CERBERUS](https://www.stewalexander.com/quantum-shield-initiative/cerberus-ai)** - A Multi-Perspective AI Framework for Quantum-Era Cyber Defense_
+Creator of **[CERBERUS](https://www.stewalexander.com/quantum-shield-initiative/cerberus-ai)** - A Multi-Perspective AI Framework for Quantum-Era Cyber Defense
 
 </div>
 
 ---
 
+## 💻 Expertise
+
 <div align="center">
 
-## 💻 Expertise
+| 🐧 Linux/UNIX | 🛡️ Cybersecurity | 🌐 Networking | ⚡ Automation |
+|:---:|:---:|:---:|:---:|
+| **Debian** • **RHEL** | **Quantum-ready defense** | **Multi-vendor infrastructure** | **Python** • **Ansible** |
+| System hardening | **SIEM** • Zero-trust | **SD-WAN** • **BGP** | **IaC** • **CI/CD** |
+| Security automation | AI threat detection | Segmentation | - |
 
 </div>
 
-| 🐧 **Linux/UNIX** | 🛡️ **Cybersecurity** | 🌐 **Networking** | ⚡ **Automation** |
-|:---:|:---:|:---:|:---:|
-| **Debian** • **RHEL** | **Quantum-ready defense** • **SIEM** | **Multi-vendor infrastructure** • **SD-WAN** | **Python** • **Ansible** |
-| System hardening • Security automation | Zero-trust • AI threat detection | **BGP** • Segmentation | **IaC** • **CI/CD** |
+<div align="center">
 
-| 🤖 **AI/ML Security** | 🔐 **Post-Quantum Crypto** |
+| 🤖 AI/ML Security | 🔐 Post-Quantum Crypto |
 |:---:|:---:|
-| Multi-agent architectures • Zero-trust for AI workloads | **ML-KEM** • **ML-DSA** |
-| AI infrastructure security | Implementation readiness |
+| Multi-agent architectures | **ML-KEM** • **ML-DSA** |
+| Zero-trust for AI workloads | Implementation readiness |
+| AI infrastructure security | - |
+
+</div>
 
 ---
 
 ## 🚀 Current Focus
 
-```yaml
-Development:
-  - 🚀 Quantum-resistant security frameworks (CERBERUS)
-  - 🔍 Network security analysis tools (ShadowVendor)
-  - 💡 Developer productivity tools (Awesome-Mnemonics)
-  
-Maintenance:
-  - 🐧 Linux automation toolkit (Linux-Tools)
-  
-Content:
-  - 📝 Quantum-AI cybersecurity at StewAlexander.com
-  
-Consulting:
-  - 🎯 Zero-trust architecture
-  - 🔐 AI infrastructure security
-  - ⚡ Quantum readiness
-```
+**Development:**
+- 🚀 Quantum-resistant security frameworks ([**CERBERUS**](https://www.stewalexander.com/quantum-shield-initiative/cerberus-ai))
+- 🔍 Network security analysis tools ([**ShadowVendor**](https://github.com/StewAlexander-com/ShadowVendor))
+- 💡 Developer productivity tools ([**Awesome-Mnemonics**](https://github.com/StewAlexander-com/Awesome-Mnemonics))
+
+**Maintenance:**
+- 🐧 Linux automation toolkit ([**Linux-Tools**](https://github.com/StewAlexander-com/Linux-Tools))
+
+**Content:**
+- 📝 Quantum-AI cybersecurity at [StewAlexander.com](https://www.stewalexander.com)
+
+**Consulting:**
+- 🎯 Zero-trust architecture
+- 🔐 AI infrastructure security  
+- ⚡ Quantum readiness
 
 ---
 
@@ -62,9 +66,10 @@ Consulting:
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔍 [ShadowVendor](https://github.com/StewAlexander-com/ShadowVendor)
+
 ![Stars](https://img.shields.io/github/stars/StewAlexander-com/ShadowVendor?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
@@ -76,9 +81,10 @@ Network device vendor analysis tool - Transform MAC address tables into interact
 - 📤 SIEM integration & event export
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎯 [CERBERUS](https://www.stewalexander.com/quantum-shield-initiative/cerberus-ai)
+
 ![AI](https://img.shields.io/badge/AI-Framework-brightgreen?style=flat-square)
 ![Quantum](https://img.shields.io/badge/Quantum-Ready-blueviolet?style=flat-square)
 
@@ -93,9 +99,10 @@ Multi-Perspective AI Framework for Quantum-Era Cyber Defense.
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💡 [Awesome-Mnemonics](https://github.com/StewAlexander-com/Awesome-Mnemonics)
+
 ![Stars](https://img.shields.io/github/stars/StewAlexander-com/Awesome-Mnemonics?style=flat-square)
 
 Lifehack acronyms to help with the mundane stuff.
@@ -103,9 +110,10 @@ Lifehack acronyms to help with the mundane stuff.
 **Purpose:** Developer productivity enhancement through memory aids and helpful mnemonics.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🐧 [Linux-Tools](https://github.com/StewAlexander-com/Linux-Tools)
+
 ![Stars](https://img.shields.io/github/stars/StewAlexander-com/Linux-Tools?style=flat-square)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
@@ -123,9 +131,9 @@ Essential Linux/Debian tools with lazy installer for system administrators.
 
 ## 📫 Let's Connect
 
-[![Email](https://img.shields.io/badge/Email-stew%40stewalexander.com-red?style=for-the-badge&logo=gmail)](mailto:stew@stewalexander.com)
-[![Blog](https://img.shields.io/badge/Blog-Quantum_Shield-blue?style=for-the-badge&logo=hashnode)](https://www.stewalexander.com/quantum-shield-initiative)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/stewalexander)
+[![Email](https://img.shields.io/badge/Email-stew%40stewalexander.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stew@stewalexander.com)
+[![Blog](https://img.shields.io/badge/Blog-Quantum_Shield-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://www.stewalexander.com/quantum-shield-initiative)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stewalexander)
 
 ### ❤️ Passions
 
