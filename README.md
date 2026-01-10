@@ -35,7 +35,9 @@
 ### 🚀 Current Focus
 
 - 🚀 Developing quantum-resistant security frameworks ([**CERBERUS**](https://www.stewalexander.com/quantum-shield-initiative/cerberus-ai))
-- 🔍 Building open-source network security tools ([**NetVendor**](https://github.com/StewAlexander-com/NetVendor))
+- 🔍 Building network security analysis tools ([**ShadowVendor**](https://github.com/StewAlexander-com/ShadowVendor)) - MAC address vendor analysis & SIEM integration
+- 💡 Creating developer productivity tools ([**Awesome-Mnemonics**](https://github.com/StewAlexander-com/Awesome-Mnemonics)) - Lifehack acronyms & memory aids
+- 🐧 Maintaining Linux automation toolkit ([**Linux-Tools**](https://github.com/StewAlexander-com/Linux-Tools)) - Essential Debian tools with lazy installer
 - 📝 Writing about quantum-AI cybersecurity at [StewAlexander.com](https://www.stewalexander.com)
 - 🎯 **Consulting**: Zero-trust architecture, AI infrastructure security, quantum readiness
 
@@ -45,7 +47,9 @@
 
 | Project | Description |
 |:-:|:-:|
-| 🔍 [**NetVendor**](https://github.com/StewAlexander-com/NetVendor) | MAC analyzer for Shadow IT detection & network security |
+| 🔍 [**ShadowVendor**](https://github.com/StewAlexander-com/ShadowVendor) | Network device vendor analysis tool - Transform MAC address tables into interactive dashboards, detect new vendors, and export SIEM events |
+| 💡 [**Awesome-Mnemonics**](https://github.com/StewAlexander-com/Awesome-Mnemonics) | Lifehack acronyms to help with the mundane stuff |
+| 🐧 [**Linux-Tools**](https://github.com/StewAlexander-com/Linux-Tools) | Essential Linux/Debian tools with lazy installer for system administrators |
 | 🎯 [**CERBERUS**](https://www.stewalexander.com/quantum-shield-initiative/cerberus-ai) | Multi-Perspective AI Framework for Quantum-Era Cyber Defense |
 
 ---
