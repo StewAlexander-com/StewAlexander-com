@@ -23,11 +23,13 @@ Creator of **[CERBERUS](https://www.stewalexander.com/quantum-shield-initiative/
 ## 📑 Table of Contents
 
 - [👤 About](#-about)
+- [🎯 Why Follow Me?](#-why-follow-me)
+- [🚧 Current Focus](#-current-focus)
 - [🎯 Services](#-services)
 - [💻 Expertise](#-expertise)
 - [🚀 Featured Projects](#-featured-projects)
 - [🏢 Experience](#-experience)
-- [✍️ Content](#️-content)
+- [✍️ Recent Content](#️-recent-content)
 - [💼 Work With Me](#-work-with-me)
 
 ---
@@ -43,6 +45,31 @@ Senior infrastructure engineer specializing in AI/ML security architectures. **K
 - 📚 **40,000+ reads** on technical articles
 
 **📍 Based in RTP Area, NC** • Serving clients nationwide
+
+---
+
+## 🎯 Why Follow Me?
+
+If you're interested in:
+- 🔐 **Security**: Zero-trust architectures, quantum-resistant crypto
+- 🤖 **AI/ML Ops**: Sub-ms latency infrastructure, multi-agent systems  
+- 🐍 **Python automation**: SIEM integration, network analysis tools
+- 📚 **Learning**: I share breakdowns of complex topics (quantum security, BGP, NIST frameworks)
+
+**💬 Have ideas or want to contribute?** Open an issue or reach out!
+
+Click **Follow** to get updates on new projects, articles, and open-source tools!
+
+---
+
+## 🚧 Current Focus
+
+- 🔬 **Researching**: Post-quantum cryptography implementations in Python
+- 🛠️ **Building**: ShadowVendor enhancements with Zeek integration
+- 📖 **Learning**: Rust for high-performance network tools
+- 🤝 **Open to**: Collaborators on CERBERUS multi-agent framework
+
+**💬 PRs welcome on [ShadowVendor](https://github.com/StewAlexander-com/ShadowVendor) and [Awesome-Mnemonics](https://github.com/StewAlexander-com/Awesome-Mnemonics)**
 
 ---
 
@@ -115,6 +142,8 @@ Network vendor analysis tool with interactive dashboards & SIEM integration. Sup
 - 🔍 Real-time device detection
 - 📤 SIEM event export
 
+**💬 PRs welcome!** Looking for contributors on Zeek integration and dashboard enhancements.
+
 ### 🎯 [CERBERUS](https://www.stewalexander.com/quantum-shield-initiative/cerberus-ai)
 ![AI](https://img.shields.io/badge/AI-Framework-brightgreen?style=flat-square)
 ![Quantum](https://img.shields.io/badge/Quantum-Ready-blueviolet?style=flat-square)
@@ -126,6 +155,8 @@ Multi-agent AI framework for quantum-era cyber defense.
 - 🔐 Quantum-resistant security
 - 🤖 Zero-trust AI workloads
 
+**🤝 Open to collaborators** on multi-agent framework development.
+
 ### 💡 [Awesome-Mnemonics](https://github.com/StewAlexander-com/Awesome-Mnemonics)
 ![Stars](https://img.shields.io/github/stars/StewAlexander-com/Awesome-Mnemonics?style=flat-square)
 
@@ -136,12 +167,14 @@ Developer productivity mnemonics and lifehack acronyms.
 - 📚 Developer productivity tools
 - 🔖 Quick reference resources
 
+**💬 Contributions welcome!** Submit your favorite mnemonics via PR.
+
 <details>
 <summary><b>➕ More Projects (3 additional)</b></summary>
 
 - 🐧 **[Linux-Tools](https://github.com/StewAlexander-com/Linux-Tools)** - Essential automation toolkit with lazy installer
 - 🌦️ **[MebaneWeather.com](https://mebaneweather.com)** - MTTR/MTBF weather monitoring dashboard
-- 📝 **[Medium Technical Writing](https://medium.com/@stewalexander)** - "20 Awesome Command Line Tools for the Mac" (40,000+ reads)
+- 📝 **[VIM-Awesome-Cheatsheet](https://github.com/StewAlexander-com/VIM-Awesome-Cheatsheet)** - Unix power-user reference (187⭐)
 
 </details>
 
@@ -163,13 +196,23 @@ Developer productivity mnemonics and lifehack acronyms.
 
 ---
 
-## ✍️ Content
+## ✍️ Recent Content
 
-**Active Writer & Content Creator:**
-- 📝 [Quantum Shield Initiative](https://www.stewalexander.com/quantum-shield-initiative) - Quantum-AI security research blog
-- 📝 [Medium.com](https://medium.com/@stewalexander) - 40,000+ readers on command-line tools and infrastructure
-- 🎙️ [Cerberus-AI YouTube](https://www.youtube.com/@cerberus-ai) - Quantum cybersecurity education and framework demonstrations
-- 📝 [LinuxTech.me](https://linuxtech.me) - Linux administration resources
+### 📝 [Medium](https://medium.com/@stewalexander) (40,000+ total reads)
+
+- **"20 Awesome Command Line Tools for the Mac"** (40,000+ reads)
+- **"Zero Trust Architecture for AI Workloads"** - Multi-cloud security patterns
+- **"Building Quantum-Resistant Networks"** - ML-KEM implementation guide
+
+### 🎙️ [Cerberus-AI YouTube](https://www.youtube.com/@cerberus-ai)
+
+- **CERBERUS Framework Demo** (Episode 1) - Multi-agent architecture overview
+- **Post-Quantum Crypto Explained** (3-part series) - ML-KEM & ML-DSA deep dive
+- **Network Security Analysis** - ShadowVendor tool walkthrough
+
+### 📝 [Quantum Shield Initiative Blog](https://www.stewalexander.com/quantum-shield-initiative)
+
+Quantum-AI security research, framework updates, and implementation guides.
 
 **Available for:**
 - 🎤 Technical conference presentations
