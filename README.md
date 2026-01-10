@@ -141,7 +141,7 @@ Essential Linux/Debian tools with lazy installer for system administrators.
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StewAlexander-com&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
+<img src="https://github-readme-stats.vercel.app/api?username=StewAlexander-com&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" />
 
 *Building the automated future - if interested, let's connect!*
 
