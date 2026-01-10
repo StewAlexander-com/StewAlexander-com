@@ -10,6 +10,8 @@
 
 [![Website](https://img.shields.io/badge/Website-stewalexander.com-0066CC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://stewAlexander.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-stewalexander-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stewalexander)
+[![Email](https://img.shields.io/badge/Email-stew@stewalexander.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stew@stewalexander.com)
+[![Schedule](https://img.shields.io/badge/Schedule-30min_Call-00C244?style=for-the-badge)](https://calendly.com/stewalexander/30min)
 ![Profile Views](https://komarev.com/ghpvc/?username=StewAlexander-com&style=for-the-badge&color=blue)
 
 Creator of **[CERBERUS](https://www.stewalexander.com/quantum-shield-initiative/cerberus-ai)** - A Multi-Perspective AI Framework for Quantum-Era Cyber Defense
@@ -18,38 +20,64 @@ Creator of **[CERBERUS](https://www.stewalexander.com/quantum-shield-initiative/
 
 ---
 
-## 💼 Professional Summary
+## 📑 Table of Contents
 
-**Key Achievements:**
-- 🏆 Architected hybrid-cloud infrastructure at **Covariant.AI** achieving **99.9% uptime**
-- ⚡ Achieved **60% faster deployments** via Python/SaltStack automation  
-- 🚗 Pioneered vehicle-to-vehicle LAN systems for **IIHS** autonomous crash avoidance testing
-- 🌟 Recognized as **'Technical Superstar'** at Extreme Networks (2009)
-- 📚 Author of **40,000+ read** technical articles on Medium
-
-**📍 Based in Mebane, NC (RTP Area)** – serving clients nationwide
+- [�️ Stew Alexander](#️-stew-alexander)
+    - [Infrastructure Automation \& Network Security Engineer for AI Systems](#infrastructure-automation--network-security-engineer-for-ai-systems)
+  - [📑 Table of Contents](#-table-of-contents)
+  - [👤 About](#-about)
+  - [🎯 Services](#-services)
+  - [💻 Expertise](#-expertise)
+  - [🚀 Featured Projects](#-featured-projects)
+    - [🔍 ShadowVendor](#-shadowvendor)
+    - [🎯 CERBERUS](#-cerberus)
+    - [💡 Awesome-Mnemonics](#-awesome-mnemonics)
+  - [🏢 Experience](#-experience)
+  - [✍️ Content](#️-content)
+  - [💼 Work With Me](#-work-with-me)
+    - [❤️ Passions](#️-passions)
+    - [📊 GitHub Contribution Activity](#-github-contribution-activity)
 
 ---
 
-## 🤝 How I Can Help
+## 👤 About
 
-<div align="center">
+Senior infrastructure engineer specializing in AI/ML security architectures. **Key achievements:**
 
-### For Remote Teams & Startups
-Zero Trust, multi-cloud (AWS/GCP), sub-ms latency for AI/robotics workloads.
+- 🏆 **99.9% uptime** hybrid-cloud infrastructure at **Covariant.AI**
+- ⚡ **60% faster deployments** via Python/SaltStack automation
+- 🚗 Pioneered autonomous vehicle networks for **IIHS** crash testing
+- 🌟 **Technical Superstar Award** - Extreme Networks (2009)
+- 📚 **40,000+ reads** on technical articles
 
-### For Local SMBs (Mebane, Haw River, RTP)
+**📍 Based in RTP Area, NC** • Serving clients nationwide
+
+---
+
+## 🎯 Services
+
+<details>
+<summary><b>🚀 For Remote Teams & Startups</b></summary>
+
+Zero Trust architectures, multi-cloud (AWS/GCP), sub-ms latency for AI/robotics workloads.
+</details>
+
+<details>
+<summary><b>🏢 For Local SMBs (Triangle Area)</b></summary>
+
 Fixed-fee security assessments, PCI-DSS gap analysis, ransomware-ready hardening.
+</details>
 
-### For MSPs & IT Partners  
+<details>
+<summary><b>🤝 For MSPs & IT Partners</b></summary>
+
 White-label security architecture and automation expertise.
+</details>
 
 **💼 Available for:**
 - 🏢 On-site consulting (Triangle area)
 - 💻 Remote infrastructure design & implementation
 - 🎤 Speaking engagements on quantum security & AI infrastructure
-
-</div>
 
 ---
 
@@ -59,23 +87,18 @@ White-label security architecture and automation expertise.
 
 | 🐧 Linux/UNIX | 🛡️ Cybersecurity | 🌐 Networking | ⚡ Automation |
 |:---:|:---:|:---:|:---:|
-| **Debian** • **RHEL** | **Quantum-ready defense** | **Multi-vendor infrastructure** | **Python** • **Ansible** |
-| System hardening | **SIEM** • Zero-trust | **SD-WAN** • **BGP** | **IaC** • **CI/CD** |
-| Security automation | AI threat detection | Segmentation | - |
-
-</div>
-
-<div align="center">
+| **Debian** • **RHEL** | **SIEM** • **Zero-trust** | **Multi-vendor** | **Python** • **Ansible** |
+| System hardening | Quantum-ready defense | **SD-WAN** • **BGP** | **IaC** • **CI/CD** |
 
 | 🤖 AI/ML Security | 🔐 Post-Quantum Crypto |
 |:---:|:---:|
 | Multi-agent architectures | **ML-KEM** • **ML-DSA** |
-| Zero-trust for AI workloads | Implementation readiness |
-| AI infrastructure security | - |
+| Zero-trust AI workloads | Implementation readiness |
 
 </div>
 
-### 🛠️ Core Technical Skills
+<details>
+<summary><b>🛠️ Detailed Technical Skills</b></summary>
 
 **Cloud & IaC:**
 - ☁️ 200+ AWS EC2 instances managed
@@ -92,13 +115,45 @@ White-label security architecture and automation expertise.
 - 📡 HA wireless design for enterprises & government
 - 🚀 Sub-ms latency AI/robotics networks
 
+</details>
+
 ---
 
-## 🏢 Organizations I've Supported
+## 🚀 Featured Projects
 
-**Key Engagements:**
+### 🔍 [ShadowVendor](https://github.com/StewAlexander-com/ShadowVendor)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Stars](https://img.shields.io/github/stars/StewAlexander-com/ShadowVendor?style=flat-square)
+
+Network vendor analysis tool with interactive dashboards & SIEM integration. Supports Cisco, Juniper, HP/Aruba, Extreme, Brocade and more.
+
+### 🎯 [CERBERUS](https://www.stewalexander.com/quantum-shield-initiative/cerberus-ai)
+![AI](https://img.shields.io/badge/AI-Framework-brightgreen?style=flat-square)
+![Quantum](https://img.shields.io/badge/Quantum-Ready-blueviolet?style=flat-square)
+
+Multi-agent AI framework for quantum-era cyber defense.
+
+### 💡 [Awesome-Mnemonics](https://github.com/StewAlexander-com/Awesome-Mnemonics)
+![Stars](https://img.shields.io/github/stars/StewAlexander-com/Awesome-Mnemonics?style=flat-square)
+
+Developer productivity mnemonics and lifehack acronyms.
+
+<details>
+<summary><b>More Projects</b></summary>
+
+- 🐧 **[Linux-Tools](https://github.com/StewAlexander-com/Linux-Tools)** - Essential automation toolkit with lazy installer
+- 🌦️ **[MebaneWeather.com](https://mebaneweather.com)** - MTTR/MTBF weather monitoring dashboard
+- 📝 **[Medium Technical Writing](https://medium.com/@stewalexander)** - "20 Awesome Command Line Tools for the Mac" (40,000+ reads)
+
+</details>
+
+---
+
+## 🏢 Experience
+
+**Key Organizations:**
 - 🏭 **Covariant.AI** - AI robotics infrastructure
-- 🚗 **Perrone Robotics / IIHS** - Autonomous vehicle networks  
+- 🚗 **Perrone Robotics / IIHS** - Autonomous vehicle networks
 - 🏛️ **US EPA** - Government cloud implementations
 - 🎓 **Alamance Community College** - Educational infrastructure
 - 🏢 **IBM, Lucent Technologies, Extreme Networks** - Enterprise networking
@@ -110,118 +165,12 @@ White-label security architecture and automation expertise.
 
 ---
 
-## 🚀 Current Focus
-
-**Development:**
-- 🚀 Quantum-resistant security frameworks ([**CERBERUS**](https://www.stewalexander.com/quantum-shield-initiative/cerberus-ai))
-- 🔍 Network security analysis tools ([**ShadowVendor**](https://github.com/StewAlexander-com/ShadowVendor))
-- 💡 Developer productivity tools ([**Awesome-Mnemonics**](https://github.com/StewAlexander-com/Awesome-Mnemonics))
-
-**Maintenance:**
-- 🐧 Linux automation toolkit ([**Linux-Tools**](https://github.com/StewAlexander-com/Linux-Tools))
-
-**Content:**
-- 📝 Quantum-AI cybersecurity at [StewAlexander.com](https://www.stewalexander.com)
-
-**Consulting:**
-- 🎯 Zero-trust architecture
-- 🔐 AI infrastructure security
-- ⚡ Quantum readiness
-
----
-
-## 📦 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔍 [ShadowVendor](https://github.com/StewAlexander-com/ShadowVendor)
-
-![Stars](https://img.shields.io/github/stars/StewAlexander-com/ShadowVendor?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-Network device vendor analysis tool - Transform MAC address tables into interactive dashboards, detect new vendors, and export SIEM events. Supports Cisco, Juniper, HP/Aruba, Extreme, Brocade and more.
-
-**Key Features:**
-- 📊 Interactive dashboards
-- 🔍 Vendor detection & analysis
-- 📤 SIEM integration & event export
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 [CERBERUS](https://www.stewalexander.com/quantum-shield-initiative/cerberus-ai)
-
-![AI](https://img.shields.io/badge/AI-Framework-brightgreen?style=flat-square)
-![Quantum](https://img.shields.io/badge/Quantum-Ready-blueviolet?style=flat-square)
-
-Multi-Perspective AI Framework for Quantum-Era Cyber Defense.
-
-**Key Features:**
-- 🛡️ Multi-agent architecture
-- 🔐 Quantum-resistant security
-- 🤖 Zero-trust AI workloads
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 💡 [Awesome-Mnemonics](https://github.com/StewAlexander-com/Awesome-Mnemonics)
-
-![Stars](https://img.shields.io/github/stars/StewAlexander-com/Awesome-Mnemonics?style=flat-square)
-
-Lifehack acronyms to help with the mundane stuff.
-
-**Purpose:** Developer productivity enhancement through memory aids and helpful mnemonics.
-
-</td>
-<td width="50%" valign="top">
-
-### 🐧 [Linux-Tools](https://github.com/StewAlexander-com/Linux-Tools)
-
-![Stars](https://img.shields.io/github/stars/StewAlexander-com/Linux-Tools?style=flat-square)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-
-Essential Linux/Debian tools with lazy installer for system administrators.
-
-**Purpose:** Automated deployment of essential tools on Linux/Debian hosts.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🌦️ [MebaneWeather.com](https://mebaneweather.com)
-
-![Weather](https://img.shields.io/badge/Weather-Dashboard-blue?style=flat-square)
-
-Severe weather dashboard for Mebane, NC applying meteorological expertise and computer science principles. MTTR/MTBF-focused monitoring system.
-
-</td>
-<td width="50%" valign="top">
-
-### 📝 [Medium Technical Writing](https://medium.com/@stewalexander)
-
-![Medium](https://img.shields.io/badge/Medium-40K%2B_Reads-black?style=flat-square&logo=medium)
-
-Technical content including **"20 Awesome Command Line Tools for the Mac"** (40,000+ reads) and quantum security research.
-
-</td>
-</tr>
-</table>
-
----
-
-## ✍️ Technical Content & Thought Leadership
+## ✍️ Content
 
 **Active Writer & Content Creator:**
-- 📝 [Quantum Shield Initiative Blog](https://www.stewalexander.com/quantum-shield-initiative) - Quantum-AI security research
+- 📝 [Quantum Shield Initiative](https://www.stewalexander.com/quantum-shield-initiative) - Quantum-AI security research blog
 - 📝 [Medium.com](https://medium.com/@stewalexander) - 40,000+ readers on command-line tools and infrastructure
-- 🎙️ [Cerberus-AI YouTube Channel](https://www.youtube.com/@cerberus-ai) - Quantum cybersecurity education and framework demonstrations
+- 🎙️ [Cerberus-AI YouTube](https://www.youtube.com/@cerberus-ai) - Quantum cybersecurity education and framework demonstrations
 - 📝 [LinuxTech.me](https://linuxtech.me) - Linux administration resources
 
 **Available for:**
@@ -237,11 +186,11 @@ Technical content including **"20 Awesome Command Line Tools for the Mac"** (40,
 
 **Available for consulting, architecture design, and fractional SRE services**
 
-[![Schedule Call](https://img.shields.io/badge/📅_Schedule-30min_Call-blue?style=for-the-badge)](https://calendly.com/stewalexander/30min)
-[![Email](https://img.shields.io/badge/Email-stew%40stewalexander.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stew@stewalexander.com)
+[![Schedule Call](https://img.shields.io/badge/📅_Schedule-30min_Call-00C244?style=for-the-badge)](https://calendly.com/stewalexander/30min)
+[![Email](https://img.shields.io/badge/📧_Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stew@stewalexander.com)
 
-[![Blog](https://img.shields.io/badge/Blog-Quantum_Shield-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://www.stewalexander.com/quantum-shield-initiative)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stewalexander)
+[![Blog](https://img.shields.io/badge/📝_Read-Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://www.stewalexander.com/quantum-shield-initiative)
+[![LinkedIn](https://img.shields.io/badge/💼_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stewalexander)
 
 Serving **startups, SMBs (RTP/Triangle area), and MSPs** nationwide
 
@@ -259,6 +208,6 @@ Serving **startups, SMBs (RTP/Triangle area), and MSPs** nationwide
 
 ---
 
-*Building the automated future - if interested, let's connect!*
+*Building the automated future - let's connect!*
 
 </div>
