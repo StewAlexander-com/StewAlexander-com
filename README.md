@@ -57,7 +57,7 @@ Creator of **[CERBERUS](https://www.stewalexander.com/quantum-shield-initiative/
 
 **Consulting:**
 - 🎯 Zero-trust architecture
-- 🔐 AI infrastructure security  
+- 🔐 AI infrastructure security
 - ⚡ Quantum readiness
 
 ---
