@@ -239,6 +239,8 @@ Serving **startups, SMBs (RTP/Triangle area), and MSPs** nationwide
 
 ### 📊 GitHub Contribution Activity
 
+**Open Source Contributions:** 15+ contributions to LibreNMS, OSQuery, NTOPng communities
+
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=StewAlexander-com&theme=radical&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true)
 
 ---
