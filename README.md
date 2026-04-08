@@ -8,7 +8,7 @@
 
 **15+ years** building resilient, zero-trust architectures for AI/ML systems • **Building the automated future**
 
-[![Website](https://img.shields.io/badge/Website-stewalexander.com-0066CC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://stewAlexander.com)
+[![Website](https://img.shields.io/badge/Website-stewalexander.com-0066CC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.stewalexander.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-stewalexander-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stewalexander)
 [![Email](https://img.shields.io/badge/Email-stew@stewalexander.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stew@stewalexander.com)
 [![Schedule](https://img.shields.io/badge/Schedule-30min_Call-00C244?style=for-the-badge)](https://calendly.com/stewalexander/30min)
@@ -22,15 +22,15 @@ Creator of **[CERBERUS](https://www.stewalexander.com/quantum-shield-initiative/
 
 ## 📑 Table of Contents
 
-- [👤 About](#-about)
-- [🎯 Why Follow Me?](#-why-follow-me)
-- [🚧 Current Focus](#-current-focus)
-- [🎯 Services](#-services)
-- [💻 Expertise](#-expertise)
-- [🚀 Featured Projects](#-featured-projects)
-- [🏢 Experience](#-experience)
-- [✍️ Recent Content](#️-recent-content)
-- [💼 Work With Me](#-work-with-me)
+- [👤 About](#about)
+- [🎯 Why Follow Me?](#why-follow-me)
+- [🚧 Current Focus](#current-focus)
+- [🎯 Services](#services)
+- [💻 Expertise](#expertise)
+- [🚀 Featured Projects](#featured-projects)
+- [🏢 Experience](#experience)
+- [✍️ Recent Content](#recent-content)
+- [💼 Work With Me](#work-with-me)
 
 ---
 
@@ -65,11 +65,11 @@ Click **Follow** to get updates on new projects, articles, and open-source tools
 ## 🚧 Current Focus
 
 - 🔬 **Researching**: Post-quantum cryptography implementations in Python
-- 🛠️ **Building**: ShadowVendor enhancements and network security tools
+- 🛠️ **Building**: [NetAttack.viz](https://github.com/StewAlexander-com/network-attack-visualizer) (interactive L2/L3 attack walkthroughs), ShadowVendor enhancements, and other network security tooling
 - 📖 **Learning**: Rust for high-performance network tools
 - 🤝 **Open to**: Collaborators on CERBERUS multi-agent framework
 
-**💬 PRs welcome on [ShadowVendor](https://github.com/StewAlexander-com/ShadowVendor) and [Awesome-Mnemonics](https://github.com/StewAlexander-com/Awesome-Mnemonics)**
+**💬 PRs welcome on [ShadowVendor](https://github.com/StewAlexander-com/ShadowVendor), [network-attack-visualizer](https://github.com/StewAlexander-com/network-attack-visualizer), and [Awesome-Mnemonics](https://github.com/StewAlexander-com/Awesome-Mnemonics)**
 
 ---
 
@@ -144,6 +144,14 @@ Network vendor analysis tool with interactive dashboards & SIEM integration. Sup
 
 **💬 PRs welcome!** Looking for contributors on dashboard enhancements and new features.
 
+### 🌐 [NetAttack.viz](https://github.com/StewAlexander-com/network-attack-visualizer)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-GitHub_Pages-0066CC?style=flat-square)](https://stewalexander-com.github.io/network-attack-visualizer/)
+![Stars](https://img.shields.io/github/stars/StewAlexander-com/network-attack-visualizer?style=flat-square)
+
+Zero-backend, step-by-step visualization of classic Layer 2/3 attacks—packet flow, topology, and MITRE ATT&CK context. PWA-friendly.
+
+**💬 Ideas and scenario PRs welcome.**
+
 ### 🎯 [CERBERUS](https://www.stewalexander.com/quantum-shield-initiative/cerberus-ai)
 ![AI](https://img.shields.io/badge/AI-Framework-brightgreen?style=flat-square)
 ![Quantum](https://img.shields.io/badge/Quantum-Ready-blueviolet?style=flat-square)
@@ -170,11 +178,13 @@ Developer productivity mnemonics and lifehack acronyms.
 **💬 Contributions welcome!** Submit your favorite mnemonics via PR.
 
 <details>
-<summary><b>➕ More Projects (3 additional)</b></summary>
+<summary><b>➕ More projects</b></summary>
 
-- 🐧 **[Linux-Tools](https://github.com/StewAlexander-com/Linux-Tools)** - Essential automation toolkit with lazy installer
-- 🌦️ **[MebaneWeather.com](https://mebaneweather.com)** - MTTR/MTBF weather monitoring dashboard
-- 📝 **[VIM-Awesome-Cheatsheet](https://github.com/StewAlexander-com/VIM-Awesome-Cheatsheet)** - Unix power-user reference (187⭐)
+- 🌧️ **[rain-view](https://github.com/StewAlexander-com/rain-view)** — Ambient rain & piano scenes (vanilla web; [live demo](https://stewalexander-com.github.io/rain-view/))
+- 🔮 **[Fractal-Mandala-3D](https://github.com/StewAlexander-com/Fractal-Mandala-3D)** — WebGL fractal / mandala explorer
+- 🐧 **[Linux-Tools](https://github.com/StewAlexander-com/Linux-Tools)** — Essential automation toolkit with lazy installer
+- 🌦️ **[MebaneWeather.com](https://mebaneweather.com)** — MTTR/MTBF weather monitoring dashboard
+- 📝 **[VIM-Awesome-Cheatsheet](https://github.com/StewAlexander-com/VIM-Awesome-Cheatsheet)** — Unix power-user reference ![Stars](https://img.shields.io/github/stars/StewAlexander-com/VIM-Awesome-Cheatsheet?style=flat-square)
 
 </details>
 
