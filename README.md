@@ -28,7 +28,7 @@ a multi-perspective framework for quantum-era cyber defense.
 <br>
 
 <details>
-<summary><b>Active work</b> — what I am building right now</summary>
+<summary><b>Active work</b></summary>
 
 <br>
 
@@ -46,7 +46,7 @@ performance-sensitive network tooling.
 </details>
 
 <details>
-<summary><b>Projects</b> — AI systems and model reliability</summary>
+<summary><b>AI systems and model reliability</b></summary>
 
 <br>
 
@@ -59,7 +59,7 @@ performance-sensitive network tooling.
 </details>
 
 <details>
-<summary><b>Projects</b> — network and security tooling</summary>
+<summary><b>Network and security tooling</b></summary>
 
 <br>
 
@@ -74,7 +74,7 @@ performance-sensitive network tooling.
 </details>
 
 <details>
-<summary><b>Projects</b> — references and learning tools</summary>
+<summary><b>References and learning tools</b></summary>
 
 <br>
 
@@ -89,7 +89,7 @@ performance-sensitive network tooling.
 </details>
 
 <details>
-<summary><b>Projects</b> — web applications and experiments</summary>
+<summary><b>Web applications and experiments</b></summary>
 
 <br>
 
@@ -107,7 +107,7 @@ performance-sensitive network tooling.
 </details>
 
 <details>
-<summary><b>Technical depth</b> — where the experience actually is</summary>
+<summary><b>Technical depth</b></summary>
 
 <br>
 
@@ -124,7 +124,7 @@ performance-sensitive network tooling.
 </details>
 
 <details>
-<summary><b>Engagements</b> — how I work with teams</summary>
+<summary><b>Engagements and availability</b></summary>
 
 <br>
 
@@ -140,7 +140,7 @@ performance-sensitive network tooling.
 </details>
 
 <details>
-<summary><b>Background</b> — organizations and recognition</summary>
+<summary><b>Background and recognition</b></summary>
 
 <br>
 
@@ -171,7 +171,7 @@ Upstream contributions to LibreNMS, OSQuery, and NTOPng
 </details>
 
 <details>
-<summary><b>Contributing</b> — where help lands best</summary>
+<summary><b>Contributing</b></summary>
 
 <br>
 
